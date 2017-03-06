@@ -1,0 +1,10 @@
+.nice-text{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 48px;
+	font-weight: 700;
+	height: 100%;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
